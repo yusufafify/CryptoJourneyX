@@ -26,11 +26,10 @@ const { Option } = Select;
 
 function CryptoDetails() {
   const { coinId } = useParams();
-  const [timePeriod, setTimePeriod] = useState("7d");
+  // const [timePeriod, setTimePeriod] = useState("7d");
   const { data, isFetching } = useGetCryptoDetailsQuery(coinId);
   const { data: coinHistory } = useGetCryptoHistoryQuery({
     coinId,
-    timePeriod,
   });
   const cryptoDetails = data?.data?.coin;
   if (isFetching) return <Loader/>;
@@ -117,7 +116,7 @@ function CryptoDetails() {
         </p>
       </Col>
 
-      <Select
+      {/* <Select
         defaultValue="7d"
         className="select-timeperiod"
         placeholder="Select Time Period"
@@ -126,7 +125,7 @@ function CryptoDetails() {
         {time.map((date) => (
           <Option key={date}>{date}</Option>
         ))}
-      </Select>
+      </Select> */}
 
       <LineChart
         coinHistory={coinHistory}
