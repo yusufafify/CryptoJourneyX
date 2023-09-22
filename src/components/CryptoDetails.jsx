@@ -129,7 +129,7 @@ function CryptoDetails() {
 
       <LineChart
         coinHistory={coinHistory}
-        currentPrice={millify(cryptoDetails?.price)}
+        currentPrice={cryptoDetails?.price>0.1?millify(cryptoDetails?.price):(Math.round(10000*cryptoDetails.price)/10000)}
         coinName={cryptoDetails?.name}
       />
       <Col className="stats-container">
