@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import { Card, Row, Col, Input } from 'antd';
 
 import { useGetCryptosQuery } from '../services/cryptoApi';
+import Loader from "./Loader";
+
 
 const Cryptocurrencies = ({ simplified }) => {
   const count = simplified ? 10 : 100;
@@ -19,9 +21,8 @@ const Cryptocurrencies = ({ simplified }) => {
     setCryptos(filteredData);
   }, [cryptosList, searchTerm]);
 
-  console.log(cryptos);
 
-  if (isFetching) return 'loading...';
+  if (isFetching) return <Loader/>;
 
   return (
     <>
@@ -40,11 +41,11 @@ const Cryptocurrencies = ({ simplified }) => {
             sm={12}
             lg={6}
             className="crypto-card"
-            key={currency.uuid}
+            key={currency.rank}
           >
 
             {/* Note: Change currency.id to currency.uuid  */}
-            <Link key={currency.uuid} to={`/crypto/${currency.uuid}`}>
+            <Link key={currency.rank} to={`/crypto/${currency.uuid}`}>
               <Card
                 title={`${currency.rank}. ${currency.name}`}
                 extra={<img className="crypto-image" src={currency.iconUrl} />}
