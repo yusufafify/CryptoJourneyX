@@ -33,8 +33,8 @@ Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ev
 
 ## Technologies used:
 <div>
-  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/36647368-c982-4858-ab4e-f96381ac8b79" >
-  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/820a4072-5ebe-4518-8952-71e0dff5157a" >
+  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/9abb86b0-d1f4-4e1a-9dbf-b0a5f4d902c8" >
+  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/4c53596f-3bbe-4877-b330-7e9f52d1088a" >
     <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/53188f89-1c3c-48a0-ac00-bd5dbc7359a5" >
 
 </div>
