@@ -33,6 +33,8 @@ Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ev
 
 ## Technologies used:
 <div>
-  <img src="" >
-  <img src="" >
+  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/36647368-c982-4858-ab4e-f96381ac8b79" >
+  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/820a4072-5ebe-4518-8952-71e0dff5157a" >
 </div>
+### Using Vite technology and react as my frontend framework
+### using Redux library and Redux toolkit for Global state management and global api Calls
