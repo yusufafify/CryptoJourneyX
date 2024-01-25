@@ -30,3 +30,9 @@ Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ev
   <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/f7362aca-0de4-4a19-93f8-fe7b9fa79d18">
   <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/d10b6231-d35c-4f65-8358-b9737b77d447">
 </div>
+
+## Technologies used:
+<div>
+  <img src="" >
+  <img src="" >
+</div>
