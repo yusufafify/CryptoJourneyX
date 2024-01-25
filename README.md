@@ -39,6 +39,31 @@ Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ev
   <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/efd255f1-f22c-45d7-b16f-7eb26852d4bd">
 </div>
 
-### Using Vite technology and react as my frontend framework
+<ul>
+  <li>Using Vite technology and react as my frontend framework:
+      <ul>
+        <li>For better performance</li>
+        <li>Better Developer experience</li>
+        <li>More Flexibility</li>
+      </ul>
+  </li>
+  <li>using Redux library and Redux toolkit for Global state management and global api Calls</li>
+  <li>Using Rapid API to get the cryptocurrency details api request</li>
+</ul>
 
-### using Redux library and Redux toolkit for Global state management and global api Calls
+## To get started with vite:
+
+```
+npm create vite@latest
+```
+Also follow the documentations of vite for further knowledge:
+### [Vite](https://vitejs.dev/)
+
+### Feel free to clone the project and add extra features in it
+just make sure to install all the dependencies by running:
+
+```
+npm install
+```
+
+## Happy Coding!
