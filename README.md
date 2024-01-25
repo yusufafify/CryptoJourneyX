@@ -36,7 +36,7 @@ Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ev
   <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/9abb86b0-d1f4-4e1a-9dbf-b0a5f4d902c8" >
   <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/4c53596f-3bbe-4877-b330-7e9f52d1088a" >
   <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/53188f89-1c3c-48a0-ac00-bd5dbc7359a5" >
-  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/2bb1eb75-ff8c-41d7-96ff-eb737a3df6fa">
+  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/efd255f1-f22c-45d7-b16f-7eb26852d4bd">
 </div>
 
 ### Using Vite technology and react as my frontend framework
