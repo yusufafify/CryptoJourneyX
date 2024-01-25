@@ -17,7 +17,7 @@ function News({ simplified }) {
   });
   const { data} = useGetCryptosQuery(100);
 
-  if (!cryptoNews?.value) return <Loader/>;
+  // if (!cryptoNews?.value) return <Loader/>;
   return (
    
       <Row gutter={[24, 24]}>
@@ -39,7 +39,10 @@ function News({ simplified }) {
           </Select>
         </Col>
       )}
-        {cryptoNews.value.map((news, index) => (
+      <Title level={2} className="heading" style={{height:'100vh'}}>
+        Unfortionatly the API is curroupted so no news are available
+      </Title>
+        {/* {cryptoNews.value.map((news, index) => (
           <Col xs={24} sm={12} lg={8} key={index}>
             <Card hoverable className="news=card">
               <a href={news.url} target="_blank" rel="noreferrer">
@@ -61,7 +64,7 @@ function News({ simplified }) {
               </a>
             </Card>
           </Col>
-        ))}
+        ))} */}
       </Row>
  
   );

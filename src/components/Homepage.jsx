@@ -62,7 +62,7 @@ const Homepage = () => {
       </Row>
       <div className="home-heading-container">
         <Title level={2} className="home-title">
-          Top 10 Cryptos In The World
+          Top 15 Cryptos In The World
         </Title>
         <Title level={3} className="show-more">
           <Link to="/cryptocurrencies">Show more</Link>
@@ -77,7 +77,8 @@ const Homepage = () => {
           <Link to="/news">Show more</Link>
         </Title>
       </div>
-      <News simplified />
+      <p>unfortionatly the API endpoint is curroupted and no data to be fetched</p>
+
     </>
   );
 };
