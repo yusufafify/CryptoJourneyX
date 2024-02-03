@@ -1,8 +1,8 @@
-# CryptopediaHub: Dive Deep into the Digital Currency Sea
+# CryptoJourneyX: Dive Deep into the Digital Currency Sea
 
-Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ever-evolving world of cryptocurrencies! Whether you're a seasoned enthusiast or just dipping your toes into the digital ocean, CryptoHub provides the tools and information you need to make informed decisions.
+Welcome to CryptoJourneyX, your one-stop shop for navigating the exciting and ever-evolving world of cryptocurrencies! Whether you're a seasoned enthusiast or just dipping your toes into the digital ocean, CryptoHub provides the tools and information you need to make informed decisions.
 
-## Here's what sets CryptopediaHub apart:
+## Here's what sets CryptoJourneyX apart:
 <ul>
   <li>Curated top 15: Stay ahead of the curve with a constantly updated list of the top 15 cryptocurrencies by market cap, highlighting the hottest contenders in the game.</li>
   <li>Endless exploration: Don't limit yourself to the top dogs! Our comprehensive database lets you delve into hundreds of different cryptocurrencies, with details on each one readily available.</li>
@@ -11,14 +11,14 @@ Welcome to CryptopediaHub, your one-stop shop for navigating the exciting and ev
   <li>Stay in the loop: Keep your finger on the pulse of the crypto market with our real-time price updates and market news feed. Never miss a beat in this dynamic landscape.</li>
 </ul>
 
-## But why choose CryptopediaHub over the rest?
+## But why choose CryptoJourneyX over the rest?
 <ul>
   <li>Unmatched convenience: Our user-friendly interface makes navigating the wealth of information effortless. Find what you need quickly and easily, regardless of your technical expertise.</li>
   <li>Focus on quality: We cut through the hype and noise, delivering reliable and trustworthy information backed by reputable sources. Make informed decisions without getting lost in the vast amount of online chatter.</li>
   <li>Constantly evolving: We're passionate about crypto and dedicated to keeping our platform up-to-date with the latest trends and developments. As the crypto landscape evolves, so does CryptoHub.</li>
 </ul>
 
-### So, whether you're a seasoned trader, a curious investor, or simply fascinated by the digital revolution, CryptoHub is your ultimate guide to the world of cryptocurrencies. Dive in, explore, and discover the future of finance!
+### So, whether you're a seasoned trader, a curious investor, or simply fascinated by the digital revolution, CryptoJourneyX is your ultimate guide to the world of cryptocurrencies. Dive in, explore, and discover the future of finance!
 
 ## Preview:
 ### [Live Preview](https://cryptopediahub.netlify.app)
