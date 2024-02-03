@@ -21,14 +21,15 @@ Welcome to CryptoJourneyX, your one-stop shop for navigating the exciting and ev
 ### So, whether you're a seasoned trader, a curious investor, or simply fascinated by the digital revolution, CryptoJourneyX is your ultimate guide to the world of cryptocurrencies. Dive in, explore, and discover the future of finance!
 
 ## Preview:
-### [Live Preview](https://cryptopediahub.netlify.app)
+### [Live Preview](https://cryptojourneyx.netlify.app/)
 
 ### Photos:
 
 <div>
-  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/22574e87-d271-4f3b-92c9-732d04109409">
-  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/f7362aca-0de4-4a19-93f8-fe7b9fa79d18">
-  <img src="https://github.com/yusufafify/CryptoPediaHub/assets/115397064/d10b6231-d35c-4f65-8358-b9737b77d447">
+  <img src="https://github.com/yusufafify/CryptoJourneyX/assets/115397064/454554e3-b703-4f0d-a1e1-7fa4a12b70f9">
+  <img src="https://github.com/yusufafify/CryptoJourneyX/assets/115397064/3c371189-537f-406c-8be7-2a35d8dd0c7d">
+  <img src="https://github.com/yusufafify/CryptoJourneyX/assets/115397064/25a33df7-467c-4131-a6f5-eedda409af8d">
+  <img src="https://github.com/yusufafify/CryptoJourneyX/assets/115397064/644ef215-c1a9-466d-968c-b46290d18d36">
 </div>
 
 ## Technologies used:
