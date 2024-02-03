@@ -21,7 +21,7 @@ Welcome to CryptoJourneyX, your one-stop shop for navigating the exciting and ev
 ### So, whether you're a seasoned trader, a curious investor, or simply fascinated by the digital revolution, CryptoJourneyX is your ultimate guide to the world of cryptocurrencies. Dive in, explore, and discover the future of finance!
 
 ## Preview:
-### [Live Preview](https://cryptopediahub.netlify.app)
+### [Live Preview](https://cryptojourneyx.netlify.app/)
 
 ### Photos:
 
